@@ -1,7 +1,7 @@
 const resources_ja = {
   pageTitle: "Manifesto",
   logoAlt: "ブランドのロゴ",
-  productName: "秘密のあるスカート",
+  productName: "Tom, With the Weather",
   imageAlt: "アイテムの写真",
   menuItems: [
     "商品コード",

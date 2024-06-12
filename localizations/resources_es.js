@@ -1,7 +1,7 @@
 const resources_es = {
   pageTitle: "Manifesto",
   logoAlt: "Logo de la marca",
-  productName: "Falda con secretos",
+  productName: "Tom, With the Weather",
   imageAlt: "Foto del artículo",
   menuItems: [
     "Código del producto",

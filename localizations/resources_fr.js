@@ -1,7 +1,7 @@
 const resources_fr = {
   pageTitle: "Manifesto",
   logoAlt: "Logo de la marque",
-  productName: "Jupe avec des secrets",
+  productName: "Tom, With the Weather",
   imageAlt: "Photo de l'article",
   menuItems: [
     "Code produit",

@@ -1,7 +1,7 @@
 const resources_en = {
   pageTitle: "Manifesto",
   logoAlt: "Brand logo",
-  productName: "Skirt With Secrets",
+  productName: "Tom, With the Weather",
   imageAlt: "Photo of the item",
   menuItems: [
     "Product code",
