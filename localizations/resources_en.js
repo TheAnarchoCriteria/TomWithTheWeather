@@ -8,7 +8,7 @@ const resources_en = {
     "Materials",
     "Care instructions",
     "Product journey",
-    "Digital Collectibles",
+    "Why Do I Need a Blockchain Passport?",
     "Contact Me"
   ],
   info1: [
