@@ -8,7 +8,7 @@ const resources_fr = {
     "Matériaux",
     "Instructions de soins",
     "Parcours du produit",
-    "Objets de collection numériques",
+    "Pourquoi ai-je besoin d'un passeport Blockchain ?",
     "Contactez-moi"
   ],
   info1: [

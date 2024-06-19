@@ -8,7 +8,7 @@ const resources_es = {
     "Materiales",
     "Instrucciones de cuidado",
     "Recorrido del producto",
-    "Coleccionables Digitales",
+    "¿Por qué necesito un pasaporte Blockchain?",
     "Contáctame"
   ],
   info1: [

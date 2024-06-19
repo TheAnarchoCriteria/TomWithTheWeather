@@ -8,7 +8,7 @@ const resources_ca = {
     "Materials",
     "Instruccions de cura",
     "Recorregut del producte",
-    "Col·leccionables Digitals",
+    "Per què necessito un passaport Blockchain?",
     "Contacta'm"
   ],
   info1: [

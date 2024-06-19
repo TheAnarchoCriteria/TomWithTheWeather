@@ -8,7 +8,7 @@ const resources_de = {
     "Materialien",
     "Pflegehinweise",
     "Produktreise",
-    "Digitale Sammlerstücke",
+    "Warum brauche ich einen Blockchain-Pass?",
     "Kontaktiere mich"
   ],
   info1: [
