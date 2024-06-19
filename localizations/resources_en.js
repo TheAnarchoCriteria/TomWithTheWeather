@@ -8,11 +8,11 @@ const resources_en = {
     "Materials",
     "Care instructions",
     "Product journey",
-    "Why do I need a blockchain passport?",
+    "Digital Collectibles",
     "Contact Me"
   ],
   info1: [
-    "M-0001010",
+    "M-0001013",
     "Uploaded on the blockchain: 21/03/2024",
     "Blockchain transaction ID:",
     "44e25bc0ed840f9bf0e58d6227db15192d5b89e79ba4304da16b09703f68ceaf"
@@ -28,10 +28,10 @@ const resources_en = {
     "Dry Clean with Tetrachloroethylene"
   ],
   info4: [
-   "Step 1. Fiber: Diyarbakır, Turkey"
-    "Step 2. Dye: Denizli, Turkey"
-    "Step 3. Tailoring: Barcelona, España"
-    "Step 4. Quality control: Barcelona, España"
+    "Step 1. Fiber: Diyarbakır, Turkey", 
+    "Step 2. Dye:  Denizli, Turkey",
+    "Step 3. Tailoring: Barcelona, España",
+    "Step 4. Quality control: Barcelona, España",
     "Step 5. Labeling and packaging: Barcelona, España"
   ],
   info5: [
